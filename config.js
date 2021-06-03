@@ -1,20 +1,19 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: 'Trên thế giới có hơn 7 tỷ nụ cười nhưng mà với anh nụ cười em mới là đẹp nhất'
-    Thế nên là làm ơn hãy để anh giúp em giữ nụ cười của em trên môi',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Hey girl 😙',
-    desc: 'anh đã trằn trọc suốt đêm qua đặt ra một câu hỏi tại sao tên em không phải là MẪN NHI. Em có thắc mắc về điều đó không ♥ ',
-    btnYes: 'Whyyyyyyy <33',
-    btnNo: 'Hông quan tâm :3',
-    question:'Bởi vì em chính là MĨ NHÂN của cuộc đời anh <3',
-    btnReply: 'Em àaaa <3',
-    reply: 'rái đất vốn lạ thường '
-    Mà sao em cứ đi nhầm đường',
-    Lạc vào tim anh lẻ loi',
-    Đằng sau chữ yêu đây là thương 🥰🥰🥰',
-    mess: 'Quỷ hàaaaaaaaaa😘😘',
-    messDesc: 'Cuộc sống anh là của em.',
-    btnAccept: 'Hihihihi <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100025228957958',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: '🥰🥰🥰🥰Vângg <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ nụ cười, nhưng đối với anh nụ cười của em là đẹp nhất <3',
+    btnReply: 'Hic <3',
+    reply: 'Vậy nên làm ơn, để anh giúp em giữ nụ cười của em trên môi <33333333',
+    mess: '🥰🥰 Quỷ xứ hafaaaaaa :333 😘😘',
+    messDesc: 'Anh sẽ luôn là của em.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'http://100025228957958'
 }
